@@ -2,5 +2,9 @@ hello world
 hi hi hi
 test world
 hello world from yaoxiang
+<<<<<<< HEAD
 wobuhui
 new commit
+=======
+wobuhui
+>>>>>>> yaoxiang
